@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="url">url을 넣으시오</string>
+</resources>
