@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-
+// 수정
     private static final int SEARCH_ADDRESS_ACTIVITY = 10000;
 
     private EditText et_address;
